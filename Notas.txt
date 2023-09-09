@@ -1,0 +1,1 @@
+Aqui vemos las Directivas y la comunicacion entre Componentes @Input() y Output()
